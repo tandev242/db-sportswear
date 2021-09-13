@@ -1,0 +1,1 @@
+window.repositoryObject = {"object_id":"d7","name":"mern-db@cluster0.dpsol.mongodb.net","description":null,"summary":[{"field":"Host","value":"cluster0.dpsol.mongodb.net"},{"field":"Database","value":"mern-db"},{"field":"DBMS","value":"MongoDB"}],"modules":[{"id":"m107","name":"Diagram"}],"dbObjects":[{"count":8,"id":"d7t","name":"Tables"}],"show_schema":false};
